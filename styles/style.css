@@ -47,7 +47,7 @@ body {
 .img-reg {
     height: 32%;
     width: 100%;
-    background: linear-gradient(var(--violet-overlay), var(--violet-overlay)), url('./images/image-header-mobile.jpg');
+    background: linear-gradient(var(--violet-overlay), var(--violet-overlay)), url("../images/image-header-mobile.jpg");
     background-size: cover;
 }
 
@@ -96,7 +96,7 @@ body {
         flex-direction: row-reverse;
     }
     .img-reg {
-        background: linear-gradient(var(--violet-overlay), var(--violet-overlay)), url('./images/image-header-desktop.jpg');
+        background: linear-gradient(var(--violet-overlay), var(--violet-overlay)), url("../images/image-header-mobile.jpg");
         background-size: cover;
         height: 100%;
         width: 100%;
